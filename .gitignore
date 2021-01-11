@@ -1,0 +1,11 @@
+## Ignore File ##
+*.sln
+*.csproj
+
+
+# ignore all files in the build/ directory
+bin/
+obj/
+ConsoleMergeSort/bin/
+ConsoleMergeSort/obj/
+.vs/
